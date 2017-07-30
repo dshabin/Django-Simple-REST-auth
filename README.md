@@ -1,6 +1,6 @@
 # Django-Simple-REST-auth
 ## Usage
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 `python manage.py migrate`
 
